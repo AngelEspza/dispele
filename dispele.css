@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+
+}
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gal{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+}
+.we{
+    width: 300px;
+    height: 300px;
+}
